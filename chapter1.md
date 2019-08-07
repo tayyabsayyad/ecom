@@ -1,4 +1,4 @@
-# Chapter 1 - Introduction to E-Commerce 
+# Chapter 1 - Introduction to E-Commerce
 
 
 Topics
@@ -15,7 +15,7 @@ Topics
 + Advantages and disadvantages of E-commerce
 + Traditional commerce Vs E-commerce
 
-## Question asked in University Exams
+## Question asked in University Exams (Including Old Syllabus)
 
 1. What is E-Commerce ?
 

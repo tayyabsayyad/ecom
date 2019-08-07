@@ -13,6 +13,6 @@ Topics
 + Internet Technologies and the Banking Industry
 
 
-## Question asked in University Exams (Including in Old Syllabus)
+## Question asked in University Exams (Including Old Syllabus)
 
 ## Model Exam Questions
