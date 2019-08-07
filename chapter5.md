@@ -16,4 +16,9 @@ Topics
 
 ## Question asked in University Exams (Including Old Syllabus)
 
+### 1. What is E-Business? Give the mapping between conventional business & E-Business.
+
+### 2. Explain critical elements of ebusiness
+
+### 3. Explain critical elements of E-business
 ## Model Exam Questions

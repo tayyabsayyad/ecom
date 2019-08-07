@@ -13,4 +13,10 @@ Topics
 
 ## Question asked in University Exams (Including Old Syllabus)
 
+### 1. Discuss Technology & Infrastructure for E-business.
+
+### 2. What are the issues involved in development of a business website.
+
+### 3. Discuss Technology & Infrastructure for E-Business.
+
 ## Model Exam Questions

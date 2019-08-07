@@ -17,8 +17,16 @@ Topics
 
 ## Question asked in University Exams (Including Old Syllabus)
 
-1. What is E-Commerce ?
+### 1. Define e-commerce and explain different types with examples
 
-2. What are the disadvantages of e-commerce ?
+### 2. Write a short note on Middleware Technologies
+
+### 3. Explain various session management techniques used in the Ecommerce
+
+### 4. Explain Security aspects ecommerce
+
+ 
+
+
 
 ## Model Exam Questions
