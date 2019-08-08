@@ -1,4 +1,4 @@
-# Chapter 3 - E-Business Strategies
+# Chapter 6 - E-Business Strategies
 
 
 Topics
