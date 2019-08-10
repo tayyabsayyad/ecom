@@ -12,7 +12,7 @@
 9. Short note : Value chain
 10. Short note : Business model
 11. Explain steps to increase web presence
-12. Explain management prospective
+12. Explain management prospective of Marketing
 13. Explain retention and growth strategy
 14. Explain modern customer acquisition
 15. Explain role of middleware
